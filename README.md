@@ -3,7 +3,7 @@
 <!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&theme=tokyonight)
 <div> -->
 <a href="https://github.com/username=09Uno">
-<img height="180em" width="3300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 </br>
