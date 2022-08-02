@@ -22,4 +22,5 @@
 </div>
 
 
+![Snake animation](https://github.com/09Uno/09Uno/blob/output/github-contribution-grid-snake.svg)
 
