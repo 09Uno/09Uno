@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @09Uno
 
  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&langs_count=7&theme=tokyonight)
-<img height="180em" display="flex" margin-left="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&langs_count=7&theme=tokyonight"/>
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&hide=javascript,scss,html&theme=tokyonight)
 -->
-
+<div  display="flex" margin-left="auto">
 <a href="https://github.com/username=09Uno">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&&hide=&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=09Uno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
