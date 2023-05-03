@@ -10,7 +10,8 @@
 <div  display="flex" margin-left="auto">
 <a href="https://github.com/username=09Uno">
 
-
+![09Uno Stats](https://github-readme-stats.vercel.app/api?username=09Uno&show_icons=true&theme=tokyonight)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&langs_count=10&theme=tokyonight"/>
 </div>
 </br>
 </br>
