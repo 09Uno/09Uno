@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruno
-- :sunglasses: Aspiring to be a web developer.
+- :sunglasses: Aspiring to be a developer.
 - :muscle:	 Make yourself better than you was yesterday.
 
  <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&langs_count=7&theme=tokyonight)
