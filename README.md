@@ -5,13 +5,6 @@
 - :sunglasses: Desenvolvedor Full Stack.
 - :muscle: Buscando sempre melhorar do que fui ontem.
 
-## Estatísticas
-
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=09Uno&show_icons=true&theme=tokyonight" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&langs_count=10&theme=tokyonight&hide=html,scss,css,less" />
-</div>
-
 ## Tecnologias que eu uso
 
 <div align="center">
@@ -31,4 +24,11 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+</div>
+
+## Estatísticas
+
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=09Uno&show_icons=true&theme=tokyonight" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&langs_count=10&theme=tokyonight&hide=html,scss,css,less" />
 </div>
