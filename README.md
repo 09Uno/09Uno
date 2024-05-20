@@ -3,7 +3,6 @@
 ## Sobre mim
 
 - :sunglasses: Desenvolvedor Full Stack.
-- :muscle: Buscando sempre melhorar do que fui ontem.
 
 ## Tecnologias que eu uso
 
