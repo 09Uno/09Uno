@@ -27,7 +27,8 @@
 
 ## Estatísticas
 
-<div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=09Uno&show_icons=true&theme=tokyonight" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09Uno&layout=compact&langs_count=10&theme=tokyonight&hide=html,scss,css,less" />
-</div>
+<img src="https://myreadme.vercel.app/api/embed/09Uno?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+## Trofeis
+
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
