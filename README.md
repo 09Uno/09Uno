@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- :sunglasses: Desenvolvedor Full Stack.
+- :sunglasses: Desenvolvedor de Sistemas.
 
 ## Tecnologias que eu uso
 
