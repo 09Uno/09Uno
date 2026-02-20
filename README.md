@@ -25,10 +25,4 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div>
 
-## Estatísticas
 
-<img src="https://myreadme.vercel.app/api/embed/09Uno?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-## Trofeis
-
-<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
